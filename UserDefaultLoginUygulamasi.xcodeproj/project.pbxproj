@@ -15,6 +15,7 @@
 		B08530EA272C141900872E2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B08530E8272C141900872E2E /* LaunchScreen.storyboard */; };
 		B08530F5272C141900872E2E /* UserDefaultLoginUygulamasiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08530F4272C141900872E2E /* UserDefaultLoginUygulamasiTests.swift */; };
 		B0853100272C141900872E2E /* UserDefaultLoginUygulamasiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08530FF272C141900872E2E /* UserDefaultLoginUygulamasiUITests.swift */; };
+		B085310E272C14FB00872E2E /* AnasayfaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B085310D272C14FB00872E2E /* AnasayfaVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B08530FB272C141900872E2E /* UserDefaultLoginUygulamasiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UserDefaultLoginUygulamasiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B08530FF272C141900872E2E /* UserDefaultLoginUygulamasiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultLoginUygulamasiUITests.swift; sourceTree = "<group>"; };
 		B0853101272C141900872E2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B085310D272C14FB00872E2E /* AnasayfaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnasayfaVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B08530DF272C141800872E2E /* SceneDelegate.swift */,
 				B08530E1272C141800872E2E /* ViewController.swift */,
 				B08530E3272C141800872E2E /* Main.storyboard */,
+				B085310D272C14FB00872E2E /* AnasayfaVC.swift */,
 				B08530E6272C141900872E2E /* Assets.xcassets */,
 				B08530E8272C141900872E2E /* LaunchScreen.storyboard */,
 				B08530EB272C141900872E2E /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B085310E272C14FB00872E2E /* AnasayfaVC.swift in Sources */,
 				B08530E2272C141800872E2E /* ViewController.swift in Sources */,
 				B08530DE272C141800872E2E /* AppDelegate.swift in Sources */,
 				B08530E0272C141800872E2E /* SceneDelegate.swift in Sources */,
